@@ -20,8 +20,8 @@ Multi-Feature Cybersecurity Toolkit, siber güvenlik uzmanları ve meraklıları
 2. **Repository'yi Klonlayın**
 
     ```bash
-    git clone <repository-url>
-    cd cybersecurity-toolkit
+    git clone <[repository-url](https://github.com/semreofficial/Multi-Feature-Cybersecurity-Toolkit)>
+    cd Multi-Feature-Cybersecurity-Toolkit
     ```
 
 3. **Script'i Çalıştırın**
